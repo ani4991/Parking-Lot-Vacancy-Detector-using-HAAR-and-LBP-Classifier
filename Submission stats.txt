@@ -1,0 +1,32 @@
+Assigment Details:
+-----------------------
+-----------------------
+
+1. The submission contains the following files : 
+
+    python files - training.py , testingfinal.py
+    
+    pdf files - Report.pdf
+
+    txt files - ReadMe.txt
+
+    xml files - all files under trainingcascade
+
+-------------------------------------------------------------------------------
+
+2. Execution details:
+
+  Hardcoded the file path in training.py for generating positive training images.
+
+  Testing.py
+  
+  variables to look for:
+
+  cas_path -> put the link to your cascasde file as value
+
+  img_path -> put the link of your testing image as value
+
+  threshold -> 60(default) you can also try changing this value for seeing changes in the detection  
+
+  cv2.wrtie -> writes the detected output image to the current working directory
+    
