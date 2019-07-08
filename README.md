@@ -7,4 +7,4 @@ Short Description:
 2. Utilized a dataset of 184K positive images and 150K negative images and trained different models based on number of stages and feature types. 
 3. Achieved an overall(Avg) accuracy of 90% by ﬁnding true positives, false positives, true negatives and false negatives.                                                                                                                                                           
 
-For more specific technical details about the implementation of the project, kindly refert the report.pdf file.
+For more specific technical details about the implementation of the project, kindly refer to the report.pdf file.
